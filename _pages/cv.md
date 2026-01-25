@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Artificial Intelligence, University of Pisa, 2027 (expected)
+* M.S. in Mathematics, University of Pisa, 2022
+* Master in Mathematics, Scuola Normale Superiore, 2022
+* B.S. in Mathematics, University of Pisa, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-2023: Data Scientist
+  * Electra Vechicles inc.
+  * Machine Learning models for fault prediction in electric batteries and smart charging.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bronze Medal at International Physics Olympiad (IPhO) 2017
+* Gold Medal at the Italian Mathematics Olympiad (ItaMO) 2017
+* Gold Medal at the Italian Physics Olympiad 2017
+* Silver Medal at the Italian Mathematics Olympiad (ItaMO) 2016
+* Bronze Medal at the Italian Physics Olympiad 2016
+* Bronze Medal at the Italian Mathematics Olympiad (ItaMO) 2015
 
 Publications
 ======
@@ -58,7 +48,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
