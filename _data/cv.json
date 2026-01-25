@@ -1,62 +1,71 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Alessandro Trenta",
+    "email": "alessandro.trenta@proton.me",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://alexthirty.github.io",
+    "summary": "PhD student in AI at University of Pisa. Math graduate.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Pisa",
+      "countryCode": "IT",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=W4RlRiMAAAAJ&hl=it"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0007-9188-5666"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Alexthirty",
+        "url": "https://github.com/Alexthirty"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "institution": "University of Pisa",
+      "area": "Ph.D in Artificial Intelligence",
+      "studyType": "Research activity focused on Learning and Transferring Physical systems, building physical simulations and using Physics to improve long-range capabilities of Graph Neural Networks.",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "institution": "Scuola Normale Superiore",
+      "area": "Master in Mathematics",
+      "studyType": "5 year program in Mathematics. Focus on Probability, Calculus and Machine Learning.",
+      "startDate": "2017",
+      "endDate": "2022",
+      "gpa": "70/70 cum laude",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "University of Pisa",
+      "area": "M.S. in Mathematics",
+      "studyType": "Final thesis on Reinforcement Learning techniques to solve Functional Equations in Conformal Field Theories.",
+      "startDate": "2020",
+      "endDate": "2022",
+      "gpa": "110/110 cum laude",
+      "courses": []
+    },
+    {
+      "institution": "University of Pisa",
+      "area": "B.S. in Mathematics",
+      "studyType": "Final thesis on Information Theory applied to Market Portfolios.",
+      "startDate": "2017",
+      "endDate": "2020",
+      "gpa": "110/110 cum laude",
       "courses": []
     }
   ],
