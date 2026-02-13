@@ -16,3 +16,12 @@ Previously, I was a Data Scientist at Electra Vehicles inc., where I worked on f
 - 2026-02 Two papers accepted at ICLR 2026! [ComPhy: Composing Physical Models with end-to-end Alignment](https://openreview.net/forum?id=ER7zDJXtRI) and [Improving Long-Range Interactions in Graph Neural Simulators via Hamiltonian Dynamics](https://openreview.net/forum?id=x66u6TEDUw). See you in Rio de Janeiro :BR:
 - 2026-01 [Learning and Transferring Physical Models through Derivatives](https://tmlr.infinite-conf.org/paper_pages/IbBCDDeDF7.html), is accepted at TMLR!
 - 2025-12 [SONAR - Long Range Graph Propagation through Information Waves](https://openreview.net/forum?id=Hxfjmc95rl) is accepted at NeurIPS 2025! I will be presenting the work at EurIPS in Copenhagen (DK).
+
+## Useful Links
+- My Master Thesis: [PDF](https://alexthirty.github.io/files/master_thesis.pdf)
+- My Bachelor Thesis: [PDF](https://alexthirty.github.io/files/bachelor_thesis.pdf)
+- My solutions for written exams of the Meccanica Razionale course at University of Pisa: [Drive](https://drive.google.com/drive/folders/1YmE8W-m4_VnilTnj4UVfc_jZ5qVJe8Iq?usp=sharing)
+- Notes by Giacomo Mezzedimi: [Personal page](https://poisson.phc.dm.unipi.it/~mezzedimi/appunti.html)
+- Notes by Simone Cappellini: [Personal page](https://poisson.phc.dm.unipi.it/~cappellini/appunti.html)
+- Notes for Elementi di Teoria degli insiemi by Luca Tonelli: [Notes](https://poisson.phc.dm.unipi.it/~ltonelli)
+- Notes for Analisi 3 by Emanuele Angilè et al.: [Notes](https://poisson.phc.dm.unipi.it/~angile)
