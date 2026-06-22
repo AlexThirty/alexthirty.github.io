@@ -13,6 +13,7 @@ I also hold a Master in Mathematics at Scuola Normale Superiore, where I worked 
 Previously, I was a Data Scientist at Electra Vehicles inc., where I worked on fault detection for electric batteries and smart charging.
 
 ## News
+- 2026-06 Our work on Long-range Propagation through the Graph Wave Equation was accepted for an Oral presentation at the Learning on Graphs Italian Meetup in Pisa! Presentation slides are available [here!](/files/LoG%20Italian%20Meetup%20-%20SONAR+.pdf)
 - 2026-02 Two papers accepted at ICLR 2026! [ComPhy: Composing Physical Models with end-to-end Alignment](https://openreview.net/forum?id=ER7zDJXtRI) and [Improving Long-Range Interactions in Graph Neural Simulators via Hamiltonian Dynamics](https://openreview.net/forum?id=x66u6TEDUw). See you in Rio de Janeiro :BR:
 - 2026-01 [Learning and Transferring Physical Models through Derivatives](https://tmlr.infinite-conf.org/paper_pages/IbBCDDeDF7.html), is accepted at TMLR!
 - 2025-12 [SONAR - Long Range Graph Propagation through Information Waves](https://openreview.net/forum?id=Hxfjmc95rl) is accepted at NeurIPS 2025! I will be presenting the work at EurIPS in Copenhagen (DK).
